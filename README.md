@@ -1,13 +1,12 @@
 # **2023 Brain to Society**
 
-# 1. Introduction
+# **1. Introduction**
 
-### 프로젝트 기간: 2023.04. ~ 2023.12.
+### **프로젝트 기간: 2023.04. ~ 2023.12.**
 
-### 연구 주제
+### **연구 주제**
 - AI 기반 진공관 램프 결함탐지 및 제조공정 최적화
 ![2023 U챌린지 페스티벌 디렉토리북_73](https://github.com/2023-BTS/Result_and_Streamlit/assets/101177823/cf117915-a196-405c-8447-15e88c5ed935)
-
 
 ### 연구 개요
 1. 연구 배경
@@ -19,7 +18,7 @@
     - 진공관 램프 표면 결함을 탐지하기 위한 효과적인 AI 기반 알고리즘 개발을 목표로 함.
     - 사용자 친화적인 웹 애플리케이션을 제작하여 사용 접근성 향상을 목표로 함.
 
-### 연구활동 주요 내용
+### **연구활동 주요 내용**
 1. 전처리
     - Data Channel, Image Resize, Normalization, Histogram Equalization을 사용함.
     - Data Channel : `1`, `3`
@@ -30,24 +29,26 @@
     - Few Shot Learning
     - Xception
 
-### Members
+### **Members**
 [`홍재민`](https://github.com/HongJaeMin) | [`박시현`](https://github.com/SihyeonP) | [`변준형`](https://github.com/Djkd22) | [`윤기창`](https://github.com/YunGichang7) | [`이진`](https://github.com/dlwls22) | [`한은규`]()
 
-### Adviser
+### **Adviser**
 [`이수동 교수`]() 지도교수
 
-### Contribution
+### **Contribution**
 - [`홍재민`](https://github.com/HongJaeMin) PM • Modeling • Data Preprocessing • Streamlit
 - [`박시현`](https://github.com/SihyeonP) Modeling
 - [`변준형`](https://github.com/Djkd22) Modeling • Streamlit
 - [`윤기창`](https://github.com/YunGichang7) Modeling
 - [`이진`](https://github.com/dlwls22) Modeling
 - [`한은규`]() Modeling • Data Preprocessing • Streamlit
-# 2. Link
+# **2. Link**
     http://203.250.72.178:9999/
-# 3. Equipment
+
+# **3. Equipment**
 - [OS] : 
 - [Collaboration Tool] : Discord, Notion
 - [IDE] : Visual Studio Code
-# 4. 시연 영상
+
+# **4. 시연 영상**
 ![2023BTS_TeamBBC](https://github.com/2023-BTS/Result_and_Streamlit/assets/101177823/ce6f9350-d409-4015-8c71-8e44863577ea)
