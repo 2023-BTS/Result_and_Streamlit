@@ -6,7 +6,7 @@
 
 ### **연구 주제**
 - AI 기반 진공관 램프 결함탐지 및 제조공정 최적화
-![2023 U챌린지 페스티벌 디렉토리북_73](https://github.com/2023-BTS/Result_and_Streamlit/assets/101177823/cf117915-a196-405c-8447-15e88c5ed935)
+![2023 U챌린지 페스티벌 디렉토리북_73_얼굴가림](https://github.com/2023-BTS/Result_and_Streamlit/assets/101177823/69edffe5-e67e-4cb0-bd74-3634d727cba0)
 
 ### 연구 개요
 1. 연구 배경
