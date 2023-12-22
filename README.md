@@ -30,24 +30,25 @@
     - Xception
 
 ### **Members**
-[`홍재민`](https://github.com/HongJaeMin) | [`박시현`](https://github.com/SihyeonP) | [`변준형`](https://github.com/Djkd22) | [`윤기창`](https://github.com/YunGichang7) | [`이진`](https://github.com/dlwls22) | [`한은규`]()
+[`홍재민`](https://github.com/HongJaeMin) | [`박시현`](https://github.com/SihyeonP) | [`변준형`](https://github.com/Djkd22) | [`윤기창`](https://github.com/YunGichang7) | [`이진`](https://github.com/dlwls22) | [`한은규`](https://github.com/eungyuHann)
 
 ### **Adviser**
 [`이수동 교수`]() 지도교수
 
 ### **Contribution**
-- [`홍재민`](https://github.com/HongJaeMin) PM • Modeling • Data Preprocessing • Streamlit
+- [`홍재민`](https://github.com/HongJaeMin) PM • Data Preprocessing • Streamlit
 - [`박시현`](https://github.com/SihyeonP) Modeling
 - [`변준형`](https://github.com/Djkd22) Modeling • Streamlit
 - [`윤기창`](https://github.com/YunGichang7) Modeling
 - [`이진`](https://github.com/dlwls22) Modeling
-- [`한은규`]() Modeling • Data Preprocessing • Streamlit
+- [`한은규`](https://github.com/eungyuHann) Data Preprocessing • Streamlit
 
 # **2. Link**
     http://203.250.72.178:9999/
 
 # **3. Equipment**
-- [OS] : 
+- [OS] : Ubuntu20.04
+- [Framework] : Streamlit
 - [Collaboration Tool] : Discord, Notion
 - [IDE] : Visual Studio Code
 
